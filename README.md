@@ -87,7 +87,7 @@ All project files are licensed under GPL v3 - please check the LICENSE file for 
 &nbsp;
 
 
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2F0xihsn%2FYAWSS)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=YAWSS:&url=https%3A%2F%2Fgithub.com%2F0xihsn%2FYAWSS)
 
 ---
 
