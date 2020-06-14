@@ -40,11 +40,11 @@ And it's ready.
 ➜ python3 YAWSS.py -ui web
 ```
 
-For start a scan you have first to create a scan config file check the template
+For start a scan first you have to create a scan config file check the template file
 in 'scans' folder.
 
 Modules have to be in modules folder for creating a new module please check the
-template in 'modules' folder.
+template file in 'modules' folder.
 
 ## Screenshots
 
