@@ -48,7 +48,7 @@ template in 'modules' folder.
 
 ## Screenshots
 
-![ss00](https://github.com/0xihsn/YAWSS/blob/master/screenshots/screenshot00.png) ![ss00](https://github.com/0xihsn/YAWSS/blob/master/screenshots/screenshot01.png)
+![ss00](https://github.com/0xihsn/YAWSS/blob/master/screenshots/screenshot00.png?raw=true) ![ss00](https://github.com/0xihsn/YAWSS/blob/master/screenshots/screenshot01.png?raw=true)
 
 ## Development
 
