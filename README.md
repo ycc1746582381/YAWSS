@@ -11,10 +11,10 @@ writing yaml configs.
 
 - Perform scan by modules created by the user.
 - Crawl the website and save all necessery data.
-- CLI and Web User Interface option.
+- CLI and Web User Interface options.
 - Scan configs can be written with YAML.
 - Basic Secuirty information will be enough to use and test any web application.
-- Support testing raw request as an input.
+- Support testing by raw request as an input.
 
 ### Version
 
