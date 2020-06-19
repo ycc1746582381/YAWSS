@@ -5,8 +5,9 @@ Python.
 
 [![GitHub issues](https://img.shields.io/github/issues/0xihsn/YAWSS)](https://github.com/0xihsn/YAWSS/issues)&nbsp;[![GitHub forks](https://img.shields.io/github/forks/0xihsn/YAWSS)](https://github.com/0xihsn/YAWSS/network)&nbsp;[![GitHub stars](https://img.shields.io/github/stars/0xihsn/YAWSS)](https://github.com/0xihsn/YAWSS/stargazers)&nbsp;[![GitHub license](https://img.shields.io/github/license/0xihsn/YAWSS)](https://github.com/0xihsn/YAWSS/blob/master/LICENSE)
 ## Objectives
-Making automated security scans and web application tests easy to handle by just
-writing yaml configs.
+
+Facilitate the automated security scans and web applications tests and make them possible to done with simple YAML configuration files.
+
 
 ## Features
 
